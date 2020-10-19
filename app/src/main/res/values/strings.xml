@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialApp</string>
+    <string name="prev_nombre">Nombre</string>
+    <string name="prev_cont">Contraseña</string>
+    <string name="header_main">Bienvenido</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="titulo">Esto es una imagen</string>
+    <string name="desc_card1">Como se puede ver, esto es una flor y esta dentro de un ejemplode Card usando material design</string>
+</resources>
