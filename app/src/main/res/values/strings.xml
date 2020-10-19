@@ -6,4 +6,6 @@
     <string name="ingresar">Ingresar</string>
     <string name="titulo">Esto es una imagen</string>
     <string name="desc_card1">Como se puede ver, esto es una flor y esta dentro de un ejemplode Card usando material design</string>
+    <string name="titulo_segundo">Esto es un bosque</string>
+    <string name="desc_card2">Aqui tenemos la imagen de un bosque, que siguiendo con la tematica de las flores queda bien</string>
 </resources>
