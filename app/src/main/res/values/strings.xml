@@ -8,4 +8,7 @@
     <string name="desc_card1">Como se puede ver, esto es una flor y esta dentro de un ejemplode Card usando material design</string>
     <string name="titulo_segundo">Esto es un bosque</string>
     <string name="desc_card2">Aqui tenemos la imagen de un bosque, que siguiendo con la tematica de las flores queda bien</string>
+    <string name="titulo_tercero">Finalmente tenemos una flor de lavanda</string>
+    <string name="desc_card3">Esta es la ultima card que se mostrará, abajo se encontrará un botón donde se podra cambiar de actividad</string>
+    <string name="texto_siguiente">siguiente ejemplo</string>
 </resources>
