@@ -152,7 +152,7 @@
             </com.google.android.material.card.MaterialCardView>
 
             <Button
-                android:id="@+id/btnRecycler"
+                android:id="@+id/btnSiguiente"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
